@@ -56,15 +56,15 @@ print(z)
 ```text
 AmhaScript/
 │
-├── translator.py
-├── lexer.py
-├── parser.py
-├── ast_nodes.py
-├── code_generator.py
+├── calculator.py
+├── control.py
+├── functions.py
+├── mytest.py
+├── variables.py
 ├── calculator.as
 ├── run_calculator.py
 ├── README.md
-└── Project_Report.pdf
+└── translator.py
 ```
 
 ---
