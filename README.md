@@ -105,11 +105,11 @@ run('calculator.as')
 
 ## Group Members
 
-1. Hilina Ayalew — UGR/30686/15  
-2. Etsubdink Gedyon — UGR/30493/15  
-3. Yoseph Ayalew — UGR/31462/15  
-4. Tinbite Ermiyas — UGR/31309/15  
-5. Netsereab Asefa — UGR/31078/15  
+1. Hilina Ayalew — UGR/30686/15  - section 1
+2. Etsubdink Gedyon — UGR/30493/15  - section 1
+3. Yoseph Ayalew — UGR/31462/15  - section 1
+4. Tinbite Ermiyas — UGR/31309/15  - section 1
+5. Netsereab Asefa — UGR/31078/15  - section 1
 
 ---
 
